@@ -1,0 +1,24 @@
+
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+font-weight: bold;
+text-shadow: 3px 3px grey;
+}
+
+#status, #number_of_objects, #start_model
+{
+font-size: 18px;
+}
+body{
+  background-size: cover;
+}
+
+canvas{
+    border: 5px solid slategray;
+    box-shadow: 7px 7px 25px 5px rgb(3, 37, 42);
+    border-radius:5px ;
+    margin-top: 30px;
+}
